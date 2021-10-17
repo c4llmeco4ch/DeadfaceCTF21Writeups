@@ -10,7 +10,11 @@ Reverse Engineering
 
 ## Prompt
 
-TBA
+A "hash" is a "digital fingerprint" of a file that is astronomically improbable to duplicate with other content by accident, and nearly impossible to duplicate intentionally. Therefore, it is often used as a "shorthand" to identify a file.
+
+Calculate the SHA256 sum of TheZeal0t's cryptoware program, and its decryptor program. Enter the two hashes as the flag, separated by a pipe symbol, with the cryptoware's hash first, followed by the decryptor program's hash. Example:
+
+flag{435524cc4113668d3f1e1e761d1717ba1bcf8b86b6dfaab9d048338e4e00a764|5d213aa47efd7e255c8304f56f148f87488a4bd9488f631ac4ed87f02c85cdce}
 
 ## Solution
 
